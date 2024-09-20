@@ -30,4 +30,6 @@ Fresher at Saveetha Engineering College
 ### Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Hari_Haran_LK?theme=dark&font=Marcellus&ext=activity)
 
+### GitHub's Activity Log
+[![Hari Haran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HariHaranLK&bg_color=000000&color=b34dac&line=0de711&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
