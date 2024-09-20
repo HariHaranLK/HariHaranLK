@@ -23,6 +23,9 @@ Fresher at Saveetha Engineering College
 ### IDE and Tools I use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/pulsar-color/48/mysql.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/adobe-lightroom--v1.png"/>
 
+### Workspace Spec
+
+<img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
 
 
