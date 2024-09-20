@@ -27,7 +27,7 @@ Fresher at Saveetha Engineering College
 
 <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-i5--12450H-blue%3Flogo%3Dintel%26logoColor%3Dwhite"/>
 
-
-
+### Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Hari_Haran_LK?theme=dark&font=Marcellus&ext=activity)
 
 
