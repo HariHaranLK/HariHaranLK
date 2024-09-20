@@ -8,7 +8,8 @@ Fresher at Saveetha Engineering College
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br/><hr>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lkhari773@gmail.com?subject=I%20want%20to%20hire%20you)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=lkhari773@gmail.com&su=I%20want%20to%20hire%20you)
+
 
 
 
