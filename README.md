@@ -15,20 +15,28 @@ Fresher at Saveetha Engineering College
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I am learning React
 
-
+<hr>
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/dusk/64/java-coffee-cup-logo.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/bubbles/100/react.png"/>
 
+<hr>
+
 ### IDE and Tools I use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/pulsar-color/48/mysql.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/adobe-lightroom--v1.png"/>
+
+<hr>
 
 ### Workspace Spec
 
 <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-i5--12450H-blue%3Flogo%3Dintel%26logoColor%3Dwhite"/>
 
+<hr>
+
 ### Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Hari_Haran_LK?theme=dark&font=Marcellus&ext=activity)
+
+<hr>
 
 ### GitHub's Activity Log
 [![Hari Haran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HariHaranLK&bg_color=000000&color=b34dac&line=0de711&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
