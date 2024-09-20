@@ -25,7 +25,8 @@ Fresher at Saveetha Engineering College
 
 ### Workspace Spec
 
-<img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> ![Intel Badge](https://img.shields.io/badge/Intel-Logo-blue?logo=Intel&logoColor=white) ![I5-12450H Badge](https://img.shields.io/badge/i5--12450H-CPU-blue?style=flat-square)
+
 
 
 
